@@ -1,0 +1,9 @@
+2025-08-26 13:23:59,427 INFO: API Fehler (1/5): APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-08-26 13:24:00,710 INFO: API Fehler (2/5): APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-08-26 13:24:02,965 INFO: API Fehler (3/5): APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-08-26 13:24:07,265 INFO: API Fehler (4/5): APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-08-26 13:24:15,597 INFO: API Fehler (5/5): APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-08-26 13:24:31,857 INFO: API Fehler (1/5): APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-08-26 13:24:33,099 INFO: API Fehler (2/5): APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-08-26 13:24:35,377 INFO: API Fehler (3/5): APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-08-26 13:24:39,636 INFO: API Fehler (4/5): APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
